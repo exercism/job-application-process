@@ -1,24 +1,26 @@
 # Designing a great job application process at Exercism
 
-At Exercism, we try to do everything as well as we can. 
+At Exercism, we try hard to do everything as well as we can, espeically when it comes to being fair, kind and inclusive.
 On April 27th, our application process came under critisism for posing a time-consuming challenge as the first step.
-Various discussion was had. 
-Some was vitriolic, but much of it came from people who clearly care about making application processes great for candidates.
+Various discussion was had - some was vitriolic, but much of it came from people who clearly care about making application processes great for candidates.
 It was clear that many people felt the approach we took was wrong.
 
-We spent a lot of time designing our process and discussed it with many people, none of whom felt that it was an unethical approach, and nor with the constraints we have, an unreasonable one.
-**So we want to understand more about why others disagree and what we've missed**.
+**We actively want to understand more about why others disagree with the process and how we could fix it.**.
 We've therefore created this repository as a space for us to discuss together how to make the application process at Exercism as great as it can be, and in the process hopefully help other organisations like us too.
+
+Further down this README is the original response from our co-founder, Jeremy. 
+It outlines some context (much of which was missed in the original discussions) and some of the constraints which we are operating under.
+It hopefully adds some colour to the conversation and explains why there's not an obvious solution to how we can make a good hiring process.
 
 ## Get involved!
 
 As with everything to do with Exercism, we build it together, exploring and sharing ideas.
 We'd love you to contribute to discussions or post your own ideas on how things could be improved. 
-Please visit the Issues tab to join in.
+Please visit the [Issues tab](https://github.com/exercism/job-application-process/issues) to join in.
 
 When considering the application process for any job at Exercism, please bare in mind three things:
 1. We get hundreds of applicants per day for jobs that we push out on channels such as LinkedIn. If we were to spend 10mins on every applicant we get, we'd have 33hrs of work per day.
-2. We have no hiring team or manager.
+2. We have no hiring team or manager, and only two of us that work full time are technical.
 3. We care about finding people who want to work at Exercism, regardless of their background. The previous opportunities they have been afforded in life should not be indicative of whether we hire them here or not.
 
 Please also take the time to understand what it means for Exercism to be not-for-profit and largely volunteer-built (you can read more below).
@@ -27,8 +29,6 @@ With that in mind, your thoughts are welcome. **How do we create a great applica
 
 _Please note though that while we love constructive passionate discussion, we strongly enforce Exercism's Code of Conduct here, and do not tolerate abuse._
 
-Finally, below the line is the original response from our co-founder, Jeremy. 
-Please have a read of that before you get started!
 
 ---
 
