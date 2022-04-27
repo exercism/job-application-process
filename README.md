@@ -6,7 +6,7 @@ Various discussion was had.
 Some was vitriolic, but much of it came from people who clearly care about making application processes great for candidates.
 It was clear that many people felt the approach we took was wrong.
 
-We spent a lot of time designing our process and discussed it with many people, none of whom felt that with the constraints we had it was an unreasonable or unethical approach. 
+We spent a lot of time designing our process and discussed it with many people, none of whom felt that it was an unethical approach, and nor with the constraints we have, an unreasonable one.
 **So we want to understand more about why others disagree and what we've missed**.
 We've therefore created this repository as a space for us to discuss together how to make the application process at Exercism as great as it can be, and in the process hopefully help other organisations like us too.
 
