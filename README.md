@@ -1,8 +1,8 @@
 # Designing a great job application process at Exercism
 
-At Exercism, we try hard to do everything as well as we can, espeically when it comes to being fair, kind and inclusive.
+At Exercism, we try hard to do everything as well as we can, especially when it comes to being fair, kind and inclusive.
 On April 27th, our application process came under critisism for posing a time-consuming challenge as the first step.
-Various discussion was had - some was vitriolic, but much of it came from people who clearly care about making application processes great for candidates.
+Various discussion was had - some was vitriolic, but much of it came from people who clearly care about making the application process great for candidates.
 It was clear that many people felt the approach we took was wrong.
 
 **We actively want to understand more about why others disagree with the process and how we could fix it.**.
