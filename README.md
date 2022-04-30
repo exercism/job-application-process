@@ -2,7 +2,7 @@
 
 At Exercism, we try hard to do everything as well as we can, especially when it comes to being fair, kind and inclusive.
 On April 27th, our application process came under critisism for posing a time-consuming challenge as the first step.
-Various discussion was had - some was vitriolic, but much of it came from people who clearly care about making the application process great for candidates.
+We believe much of this feedback came from people who clearly care about making the application process great for candidates.
 It was clear that many people felt the approach we took was wrong.
 
 **We actively want to understand more about why others disagree with the process and how we could fix it.**.
@@ -38,7 +38,7 @@ This is longer than a Reddit comment because it lays out detail and explains rat
 
 ## Background
 
-For the first time in our many-year history, Exercism is hiring. Earlier today, a post when viral on Reddit questioning the ethicalness of our hiring process for a front-end developer, specifically that we ask people to complete a task up-front at the start of the application process. As is often the way with conversations online, there were some well considered comments, a lot of angry vitriol, many half-truths propogated, and some outright lies told. We then started receiving abuse on various channels as a result of the post.
+For the first time in our many-year history, Exercism is hiring. Earlier today, a post when viral on Reddit questioning the ethicalness of our hiring process for a front-end developer, specifically that we ask people to complete a task up-front at the start of the application process. We have received communications that we found unproductive, including receiving abuse on various channels as a result of the post.
 
 If you're not familiar with Exercism, we're a not-for-profit, open-source educational platform, providing free programming education resources. From day one, we've been almost entirely powered by volunteers. The vast majority of Exercism's codebase is written by volunteers, and volunteers have spent hundreds of thousands of hours mentoring others on the platform for free.
 
