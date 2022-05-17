@@ -38,7 +38,7 @@ This is longer than a Reddit comment because it lays out detail and explains rat
 
 ## Background
 
-For the first time in our many-year history, Exercism is hiring. Earlier today, a post when viral on Reddit questioning the ethicalness of our hiring process for a front-end developer, specifically that we ask people to complete a task up-front at the start of the application process. As is often the way with conversations online, there were some well considered comments, a lot of angry vitriol, many half-truths propogated, and some outright lies told. We then started receiving abuse on various channels as a result of the post.
+For the first time in our many-year history, Exercism is hiring. Earlier today, a post went viral on Reddit questioning the ethicalness of our hiring process for a front-end developer, specifically that we ask people to complete a task up-front at the start of the application process. As is often the way with conversations online, there were some well considered comments, a lot of angry vitriol, many half-truths propogated, and some outright lies told. We then started receiving abuse on various channels as a result of the post.
 
 If you're not familiar with Exercism, we're a not-for-profit, open-source educational platform, providing free programming education resources. From day one, we've been almost entirely powered by volunteers. The vast majority of Exercism's codebase is written by volunteers, and volunteers have spent hundreds of thousands of hours mentoring others on the platform for free.
 
@@ -97,12 +97,12 @@ We spent a lot of time thinking about this and considering it, and giving everyo
 - It's also interesting to see the various different estimates at how long this project would take people, with many people saying it would take them days.
   Most of the good applicants have done the project in 5 or 6 hours from scratch, with the CSS taking about an hour.
   As many people pointed out in Reddit, the CSS is all easily extractable from Figma.
-- A few people have said the pay is too cheap.Well, the salary is what we can afford. It's the same salary as the other team members, and the same as I take. It's also the median salary for the role in the UK, where we're based. For some people Exercism's vision, team, and values outweigh the fact that they could earn more elsewhere. For others it won't. That's a decision for individuals to take.
+- A few people have said the pay is too cheap. Well, the salary is what we can afford. It's the same salary as the other team members, and the same as I take. It's also the median salary for the role in the UK, where we're based. For some people Exercism's vision, team, and values outweigh the fact that they could earn more elsewhere. For others it won't. That's a decision for individuals to take.
 - As well as this job post, we have a second job post up for a Rails Developer at the moment, which has no up-front challenge. We've not promoted either post (yet) and we've had about 20x more applications for the frontend role with the challenge than the backend role without. There's a wealth of reasons that this could be the case, but I don't think the intuitive feeling of "no-one will apply for this because there's a challenge" has evidence to support it at this stage.
 
 ## Concluding thoughts
 
-**Is the application too involved?** Probably.We'd already decided to change this by splitting it into two phases, and discussed that with the community before all this blew up today.
+**Is the application too involved?** Probably. We'd already decided to change this by splitting it into two phases, and discussed that with the community before all this blew up today.
 
 **Are we being unethical or exploitative to ask someone to do this challenge?** No, I don't think we are. We're very up-front on the job page about the application process and what's involved. If people don't want to apply, they don't have to. We're not using their work for any production purposes so we're not benefitting from their time, and we're giving them some really "eye-opening" (to quote one good applicant) feedback in return for their effort.
 
